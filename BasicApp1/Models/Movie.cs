@@ -12,5 +12,6 @@ namespace BasicApp1.Models
         public string City_State { get; set; }
         public string ZipCode { get; set; }
         public string Email { get; set; }
+        
     }
 }
